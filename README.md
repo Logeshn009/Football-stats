@@ -1,6 +1,6 @@
 # Football-stats
 
-This File >>> "ML_Lab_Programs.ipynb" contains all lab programs from lab program 2 to 5.
+This File >>> "ML_Lab_Programs.ipynb" contains all lab programs from lab program 2 to 8.
 
 This is a linear-regression line, representing goals vs shots on target
 
